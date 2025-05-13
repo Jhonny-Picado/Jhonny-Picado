@@ -3,7 +3,7 @@
 
 ---
 
-🎓 **Computer Engineer** graduated with honors from TEC (Costa Rica)  
+🎓 **Software Engineer** graduated with honors from TEC (Costa Rica)  
 💼 **2 years of professional experience** (full-time and freelance)  
 🚀 Focused on building secure, scalable backend systems  
 🌎 From Costa Rica 
